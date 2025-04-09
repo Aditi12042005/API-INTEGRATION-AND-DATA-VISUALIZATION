@@ -19,4 +19,4 @@ Open weather map in Api integration and Data Visualization using matplotlib or s
 
 #OUTPUT
 
-https://github.com/Aditi12042005/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-2983139451
+![Image](https://github.com/user-attachments/assets/c33296bf-ce25-41ae-9e62-927486cd3474)
